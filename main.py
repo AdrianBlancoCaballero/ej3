@@ -11,7 +11,3 @@ ancho = int(input("Ancho de la pantalla: "))
 alto = int(input("Alto de la pantalla: "))
 size[0] = ancho
 size[1] = alto
-
-# Ejercicio de Clase 4
-titulo = input("Título del juego: ")
-main2(size, titulo)
